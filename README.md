@@ -1,1 +1,1 @@
-# Server-Maker-fot-MCBE
+# Server-Maker-fo-MCBE
